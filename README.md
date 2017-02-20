@@ -2,13 +2,16 @@
 
 This repo contains sample rsyslog config files for a variety of rsyslog setups including:
 
-## Inputs
+### Inputs
 - UDP
 - TCP
 - TLS
 - RELP
 
-## Outputs
+### Outputs
+- TCP
+- TLS
+- RELP
 - Kafka
 - omfwd
 - File
